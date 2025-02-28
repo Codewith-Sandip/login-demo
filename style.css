@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/bg.jpg) no-repeat;
+    background: url(https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w1y36cmnij2zgoze23iq.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
